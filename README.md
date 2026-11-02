@@ -36,11 +36,6 @@ If you use EthiX, please cite:
 }
 ```
 
-## License
-
-EthiX is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may use and adapt it for non-commercial purposes, including research and teaching, provided you cite the paper above and share any adaptations under the same license. See [`LICENSE`](LICENSE) for details.
-
-**Kialo content.** The argument and debate texts were written by Kialo users and collected from public debates on kialo.com. We do not own this text, and its use is also subject to [Kialo's Terms of Service](https://www.kialo.com/terms). Our license covers our own contributions: the selection of arguments, the scheme annotations and the label descriptions.
 
 ## Contact
 
