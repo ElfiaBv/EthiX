@@ -1,0 +1,28 @@
+EthiX: A Dataset for Argument Scheme Classification in Ethical Debates
+Created by Elfia Bezou-Vrakatseli, Oana Cocarascu and Sanjay Modgil
+(King's College London), 2024.
+
+This dataset is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+In short, you may share and adapt this dataset for non-commercial purposes,
+provided that you:
+  - give appropriate credit by citing the paper below;
+  - do not use it for commercial purposes;
+  - distribute any adaptations under the same license.
+
+THIRD-PARTY CONTENT
+The argument texts in Dataset.csv (the "Argument" and "Debate" columns) were
+collected from public debates on Kialo (https://www.kialo.com) and were written
+by Kialo users. The authors of EthiX do not own this text, and its use is also
+subject to Kialo's Terms of Service. The license above covers the authors'
+contributions (the selection of arguments, the argument scheme annotations in
+the "Scheme" column, and label_descriptions.txt) and is granted only to the
+extent that the authors hold rights in the material.
+
+CITATION
+E. Bezou-Vrakatseli, O. Cocarascu and S. Modgil. EthiX: A Dataset for Argument
+Scheme Classification in Ethical Debates. In Proceedings of the 27th European
+Conference on Artificial Intelligence (ECAI 2024), pages 3628-3635, 2024.
